@@ -1,0 +1,17 @@
+# editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+
+
+node_modules
+#unsiswap
+uniswap-v2-core/build/*
+uniswap-v2-core/node_modules/*
+uniswap-v2-periphery/build/*
+uniswap-v2-periphery/node_modules/*
